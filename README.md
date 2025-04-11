@@ -70,9 +70,12 @@ Os projetos estão organizados por linguagem, temática e dificuldade:
 
 ## 🙌 Como contribuir
 
-1. Leia o arquivo `CONTRIBUINDO.md`
-2. Use o modelo `modelo-projeto.md` para adicionar seu projeto.
+1. Leia o arquivo [`CONTRIBUINDO.md`](CONTRIBUINDO.md)
+
+2. Use o modelo [`modelo-projeto.md`](modelo-projeto.md) para adicionar seu projeto.
+
 3. Abra um Pull Request com sua sugestão.
+
 
 ---
 
@@ -91,3 +94,6 @@ Este repositório segue a licença MIT.
 ---
 
 Feito com carinho por **Greison Montenari** — porque dados são poder, e conhecimento compartilhado transforma.
+docs(readme): adiciona links clicáveis para arquivos de contribuição
+
+
