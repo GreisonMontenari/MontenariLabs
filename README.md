@@ -54,9 +54,11 @@ Educação | Análise Exploratória | Machine Learning
 - Casos com dados reais brasileiros;
 - Ideal para quem está começando na área.
 
-🔗 [Acesse o projeto](https://github.com/fulano/repositorio-praticas-cd)
+🔗 [Acesse o projeto]https://github.com/GreisonMontenari/MontenariLabs/blob/main/CONTRIBUINDO.md
 
 ---
+
+
 
 ## 🔍 Como navegar na lista
 
