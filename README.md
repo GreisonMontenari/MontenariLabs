@@ -44,7 +44,7 @@ Dados Públicos | Visualização | Governo Aberto
 Conjunto de notebooks com estudos de caso, EDA, visualização, uso de machine learning e extração de dados voltados para estudantes e profissionais iniciantes.
 
 **Tecnologias:**  
-Python, Pandas, Scikit-learn, Matplotlib, Jupyter
+Python, Pandas, Scikit-learn, Matplotlib, Jupyter, AWS
 
 **Categoria:**  
 Educação | Análise Exploratória | Machine Learning
