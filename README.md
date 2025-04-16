@@ -34,7 +34,6 @@ Dados Públicos | Visualização | Governo Aberto
 - Visualizações interativas;
 - API pública para desenvolvedores.
 
-🔗 [Acesse o projeto](https://github.com/DataViva/dataviva-site)
 
 ---
 
@@ -54,7 +53,7 @@ Educação | Análise Exploratória | Machine Learning
 - Casos com dados reais brasileiros;
 - Ideal para quem está começando na área.
 
-🔗 [Acesse o projeto]https://github.com/GreisonMontenari/MontenariLabs/blob/main/CONTRIBUINDO.md
+🔗 [Acesse o projeto] https://github.com/GreisonMontenari/MontenariLabs/blob/main/CONTRIBUINDO.md
 
 ---
 
@@ -74,9 +73,7 @@ Os projetos estão organizados por linguagem, temática e dificuldade:
 
 1. Leia o arquivo [`CONTRIBUINDO.md`](CONTRIBUINDO.md)
 
-2. Use o modelo [`modelo-projeto.md`](modelo-projeto.md) para adicionar seu projeto.
-
-3. Abra um Pull Request com sua sugestão.
+2. Abra um Pull Request com sua sugestão.
 
 
 ---
