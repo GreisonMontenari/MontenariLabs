@@ -30,7 +30,9 @@ Passo 4: Submeta um pull request!
 
 Como a Curadoria Funciona
 A curadoria é feita com base na relevância do projeto para a comunidade, na qualidade do código e na documentação. Buscamos projetos que ajudem a impulsionar o aprendizado e a aplicação prática de Ciência de Dados no Brasil.
----
+
+Dúvidas ou Sugestões?
+Caso tenha alguma dúvida ou sugestão, fique à vontade para nos contatar através de email/issue.
 
 ## 📚 Licença
 
