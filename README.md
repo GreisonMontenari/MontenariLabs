@@ -1,89 +1,35 @@
-# MontenariLabs
+MontenariLabs
+MontenariLabs é uma curadoria de projetos open-source brasileiros voltados para Ciência de Dados e Análise de Dados. Nosso objetivo é reunir recursos valiosos para a comunidade de dados e incentivar a colaboração e inovação.
 
-MontenariLabs é uma curadoria de projetos open-source brasileiros com foco em ciência de dados, análise de dados e tudo que envolve o universo da informação baseada em dados. Aqui, reunimos iniciativas de pessoas desenvolvedoras, analistas e cientistas de dados que contribuem para um ecossistema de aprendizado, colaboração e inovação.
+Categorias de Projetos
+Iniciante: Projetos para quem está começando a aprender Ciência de Dados.
 
----
+Intermediário: Projetos que exigem alguma experiência e oferecem desafios mais complexos.
 
-## 🚀 Propósito
+Avançado: Projetos para quem é especialista ou deseja desafios mais profundos e técnicos.
 
-- Facilitar o acesso a projetos brasileiros relevantes na área de dados.
-- Estimular a contribuição com projetos open-source.
-- Conectar a comunidade brasileira de dados com iniciativas de impacto.
+Exemplos de Projetos
+Aqui estão alguns exemplos de projetos curados:
 
----
+Projeto X: Uma ferramenta de visualização de dados interativa.
 
-## 🌟 Projetos em Destaque
+Projeto Y: Análise preditiva usando modelos de Machine Learning.
 
-Confira alguns dos projetos incríveis já curados no MontenariLabs:
+Projeto Z: Soluções de processamento de dados em grande escala.
 
----
+Como Contribuir
+Se você tem um projeto open-source em Ciência de Dados ou Análise de Dados, adoraríamos tê-lo aqui! Para adicionar seu projeto ao MontenariLabs, siga as instruções abaixo:
 
-🇧🇷 **Projeto 1: DataViva**
+Passo 1: Faça um fork deste repositório.
 
-**Descrição:**  
-Plataforma interativa desenvolvida pelo Governo de Minas Gerais para visualização de dados públicos brasileiros, com foco em economia, exportações, mercado de trabalho e educação.
+Passo 2: Crie uma branch com o nome do seu projeto.
 
-**Tecnologias:**  
-D3.js, Python, PostgreSQL, API REST
+Passo 3: Adicione seu projeto na categoria adequada, incluindo uma breve descrição e link.
 
-**Categoria:**  
-Dados Públicos | Visualização | Governo Aberto
+Passo 4: Submeta um pull request!
 
-**Destaques:**  
-- Open data com grande volume de informações;
-- Visualizações interativas;
-- API pública para desenvolvedores.
-
-
----
-
-🇧🇷 **Projeto 2: Repositório de Práticas de Ciência de Dados**
-
-**Descrição:**  
-Conjunto de notebooks com estudos de caso, EDA, visualização, uso de machine learning e extração de dados voltados para estudantes e profissionais iniciantes.
-
-**Tecnologias:**  
-Python, Pandas, Scikit-learn, Matplotlib, Jupyter, AWS
-
-**Categoria:**  
-Educação | Análise Exploratória | Machine Learning
-
-**Destaques:**  
-- Didático e comentado passo a passo;
-- Casos com dados reais brasileiros;
-- Ideal para quem está começando na área.
-
-🔗 [Acesse o projeto] https://github.com/GreisonMontenari/MontenariLabs/blob/main/CONTRIBUINDO.md
-
----
-
-
-
-## 🔍 Como navegar na lista
-
-Os projetos estão organizados por linguagem, temática e dificuldade:
-
-- **Linguagens**: Python, R, SQL, etc.
-- **Temas**: Análise Exploratória, Visualização, Dados Financeiros, Dados Públicos...
-- **Dificuldade**: Iniciante | Intermediário | Avançado
-
----
-
-## 🙌 Como contribuir
-
-1. Leia o arquivo [`CONTRIBUINDO.md`](CONTRIBUINDO.md)
-
-2. Abra um Pull Request com sua sugestão.
-
-
----
-
-## 🚫 Regras
-
-- Apenas projetos brasileiros ou mantidos por brasileiros.
-- Repositórios devem estar minimamente documentados.
-- Proibido incluir projetos com conteúdo discriminatório ou ofensivo.
-
+Como a Curadoria Funciona
+A curadoria é feita com base na relevância do projeto para a comunidade, na qualidade do código e na documentação. Buscamos projetos que ajudem a impulsionar o aprendizado e a aplicação prática de Ciência de Dados no Brasil.
 ---
 
 ## 📚 Licença
