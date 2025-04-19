@@ -8,8 +8,24 @@
 - **Categorias**: Projetos são organizados em **Iniciante**, **Intermediário**, e **Avançado**.
 
 ## 🏆 Exemplos de Projetos
-- **[Projeto A](link)**: Descrição do projeto.
-- **[Projeto B](link)**: Descrição do projeto.
+
+### 🇧🇷 Projetos para Iniciar
+
+1. **[Data Science Brazil](https://github.com/proflgrando/data-science-brazil)**  
+   Uma coleção abrangente de cursos gratuitos, trilhas de aprendizado e projetos práticos em Python, R, SQL, Machine Learning e Inteligência Artificial. Ideal para iniciantes e intermediários que buscam estrutura e conteúdo de qualidade.
+
+2. **[Repositório de Práticas de Ciência de Dados](https://github.com/Luan-Moreno/Repositorio-Praticas-Ciencia-de-Dados)**  
+   Organizado por ferramentas como Excel, Power BI e Python, este repositório oferece exercícios práticos e projetos que cobrem diversas áreas da ciência de dados.
+
+### 🧠 Projetos Intermediários e Avançados
+
+3. **[Engenharia de Dados](https://github.com/alessandracruz/EngenhariaDeDados)**  
+   Uma coleção de projetos práticos focados em Engenharia de Dados, utilizando Python, SQL, pipelines e tecnologias para Big Data.
+
+### 📚 Projetos para Contribuição
+
+4. **[MontenariLabs](https://github.com/GreisonMontenari/MontenariLabs)**  
+   Este é o próprio repositório que estamos desenvolvendo. Ele visa reunir projetos brasileiros open-source em Ciência de Dados e Análise de Dados. Contribuições são bem-vindas!
 
 ## 💻 Contribua
 
