@@ -1,37 +1,40 @@
 # MontenariLabs
 
-**MontenariLabs** é uma curadoria de projetos open-source brasileiros voltados para **Ciência de Dados** e **Análise de Dados**. Nosso objetivo é reunir recursos valiosos para a comunidade de dados e incentivar a colaboração e inovação.
+**MontenariLabs** é uma curadoria de projetos open-source brasileiros em **Ciência de Dados** e **Análise de Dados**. O objetivo é organizar e promover projetos que ajudem a comunidade de dados, desde iniciantes até especialistas.
 
-## Categorias de Projetos
+## 🚀 Como Funciona
 
-- **Iniciante**: Projetos para quem está começando a aprender Ciência de Dados.
-- **Intermediário**: Projetos que exigem alguma experiência e oferecem desafios mais complexos.
-- **Avançado**: Projetos para quem é especialista ou deseja desafios mais profundos e técnicos.
+- **Curadoria de Projetos**: Selecionamos projetos com base na qualidade do código, documentação e relevância para a comunidade.
+- **Categorias**: Projetos são organizados em **Iniciante**, **Intermediário**, e **Avançado**.
 
-## Exemplos de Projetos
+## 🏆 Exemplos de Projetos
+- **[Projeto A](link)**: Descrição do projeto.
+- **[Projeto B](link)**: Descrição do projeto.
 
-Aqui estão alguns exemplos de projetos curados:
+## 💻 Contribua
 
-- **[Projeto X](link)**: Uma ferramenta de visualização de dados interativa.
-- **[Projeto Y](link)**: Análise preditiva usando modelos de Machine Learning.
-- **[Projeto Z](link)**: Soluções de processamento de dados em grande escala.
+1. **Passo 1**: Faça um fork do repositório.
+2. **Passo 2**: Crie uma branch para o seu projeto.
+3. **Passo 3**: Submeta um pull request com seu projeto.
 
-## Como Contribuir
+## 📚 Níveis de Dificuldade
 
-Se você tem um projeto open-source em **Ciência de Dados** ou **Análise de Dados**, adoraríamos tê-lo aqui! Para adicionar seu projeto ao **MontenariLabs**, siga as instruções abaixo:
+- **Iniciante**: Projetos para quem está começando.
+- **Intermediário**: Projetos para quem já tem alguma experiência.
+- **Avançado**: Projetos para quem deseja desafios maiores.
 
-1. **Passo 1**: Faça um fork deste repositório.
-2. **Passo 2**: Crie uma branch com o nome do seu projeto.
-3. **Passo 3**: Adicione seu projeto na categoria adequada, incluindo uma breve descrição e link.
-4. **Passo 4**: Submeta um pull request!
+## 🤝 Como Submeter um Projeto
 
-## Como a Curadoria Funciona
+Envie seu projeto seguindo estas etapas:
 
-A curadoria é feita com base na relevância do projeto para a comunidade, na qualidade do código e na documentação. Buscamos projetos que ajudem a impulsionar o aprendizado e a aplicação prática de Ciência de Dados no Brasil.
+1. Faça um fork deste repositório.
+2. Crie uma branch com o nome do seu projeto.
+3. Adicione seu projeto à categoria correspondente.
+4. Submeta um pull request.
 
-## Dúvidas ou Sugestões?
+## 📬 Contato
 
-Caso tenha alguma dúvida ou sugestão, fique à vontade para nos contatar através de [email/issue](#).
+Para dúvidas ou sugestões, [abra uma issue](#) ou entre em contato via [email](#).
 
 Dúvidas ou Sugestões?
 Caso tenha alguma dúvida ou sugestão, fique à vontade para nos contatar através de email/issue.
