@@ -11,7 +11,8 @@ Ex: Analisador de Dados de Vendas com Python
 
 ## 🔗 Link do Repositório
 
-[https://github.com/seunome/seuprojeto](https://github.com/seunome/seuprojeto)
+[https://github.com/GreisonMontenari/seuprojeto](https://github.com/GreisonMontenari/seuprojeto)
+
 
 ## 🧠 Descrição
 
