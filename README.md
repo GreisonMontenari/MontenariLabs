@@ -33,7 +33,6 @@ A curadoria é feita com base na relevância do projeto para a comunidade, na qu
 
 Dúvidas ou Sugestões?
 Caso tenha alguma dúvida ou sugestão, fique à vontade para nos contatar através de email/issue.
-
 ## 📚 Licença
 
 Este repositório segue a licença MIT.
