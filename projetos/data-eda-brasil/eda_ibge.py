@@ -12,7 +12,7 @@ print(df.head())
 
 # Gráfico de distribuição
 plt.figure(figsize=(10,6))
-sns.histplot(df["populacao"], bins=30, kde=True)
+sns.histplot(df["populacao_2022"], bins=30, kde=True)
 plt.title("Distribuição da População dos Municípios")
 plt.xlabel("População")
 plt.ylabel("Número de Municípios")
