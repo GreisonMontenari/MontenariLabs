@@ -55,10 +55,10 @@ O objetivo é organizar e promover projetos que ajudem a comunidade de dados, de
 
 ## 📚 Níveis de Dificuldade
 
-- ![Iniciante badge](link-para-badge)  
-- ![Intermediário badge](link-para-badge)  
-- ![Avançado badge](link-para-badge)  
-- ![Com Visualização badge](link-para-badge)  
+![Iniciante](https://img.shields.io/badge/Nível-Iniciante-brightgreen)
+![Intermediário](https://img.shields.io/badge/Nível-Intermediário-yellow)
+![Avançado](https://img.shields.io/badge/Nível-Avançado-red)
+![Com Visualização](https://img.shields.io/badge/Com_Visualização-blue)
 
 ---
 
