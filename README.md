@@ -60,6 +60,7 @@ O objetivo é organizar e promover projetos que ajudem a comunidade de dados, de
 ![Avançado](https://img.shields.io/badge/Nível-Avançado-red)
 ![Com Visualização](https://img.shields.io/badge/Com_Visualização-blue)
 
+
 ---
 
 ## 🤝 Como Submeter um Projeto
